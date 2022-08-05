@@ -1,0 +1,12 @@
+{
+  "files": {
+    "outputA.txt": [
+      {
+        "id": "5f5c3aa9-ae68-4bd0-a405-70c07eae2375",
+        "line": 10,
+        "version": 1,
+        "index": 123
+      }
+    ]
+  }
+}
